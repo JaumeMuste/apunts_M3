@@ -6,3 +6,10 @@ public void form2 ()
 
 
 }
+
+
+
+public void saludar()
+{
+ Console.Write ('Hola');
+}
